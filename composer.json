@@ -1,5 +1,18 @@
 {
-    "require": {
-        "fzaninotto/faker": "^1.5"
+  "name": "ricomuh/bago",
+  "description": "Bago is a PHP framework for building web applications.",
+  "keywords": [
+    "framework",
+    "mvc",
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "Rico Muhammad Nashrullah",
+      "email": "rico@leolitgames.com"
     }
+  ],
+  "require": {
+    "fzaninotto/faker": "^1.5"
+  }
 }
