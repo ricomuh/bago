@@ -1,5 +1,6 @@
 {
   "name": "ricomuh/bago",
+  "type": "library",
   "description": "Bago is a PHP framework for building web applications.",
   "keywords": [
     "framework",
